@@ -1,0 +1,32 @@
+/* .app-header {
+  background-color: pink;
+}
+
+.navig {
+  flex: 3;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline;
+  margin: 5px;
+  padding: 2px;
+}
+
+.login {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  flex-direction: row-reverse;
+}
+
+.loginButton {
+  margin: 25px;
+} */
