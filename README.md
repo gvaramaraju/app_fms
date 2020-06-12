@@ -1,3 +1,4 @@
+![Node.js CI](https://github.com/ramaraju-gva/app_fms/workflows/Node.js%20CI/badge.svg)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
